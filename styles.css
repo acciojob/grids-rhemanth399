@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.my-row{
+    border: 5px solid rgb(255, 188, 188);
+    height: 200px;
+    }
+    .my-col{
+    border: 2px dotted rgb(38, 38, 43);
+    }
+    .r1c1{
+    background-color: teal;
+    }
+    .r1c2{
+    background-color: thistle;
+    }
+    .r2c1{
+    background-color:tomato;
+    }
+    .r2c2{
+    background-color:turquoise
+    }
+    .r3c1{
+    background-color:violet
+    }
+    .r3c2{
+    background-color: yellowgreen;
+    }
